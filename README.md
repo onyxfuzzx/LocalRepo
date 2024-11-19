@@ -57,9 +57,11 @@ python main.py
 - End Date: Enter the end date of the historical data in the format YYYY-MM-DD.
 - Future Days: Enter the number of business days for which you want to predict future stock prices.
 - Run Predictions
+- Click the "Run Predictions" button to start the prediction process.
 
-Click the "Run Predictions" button to start the prediction process. 
-The application will:
+
+
+### The application will:
 - Download the historical stock data.
 - Preprocess the data.
 - Build and train the LSTM model.
