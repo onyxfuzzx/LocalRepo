@@ -1,3 +1,4 @@
+# Using the Modules
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -159,6 +160,7 @@ def run_predictions():
 # Create the main window
 root = tk.Tk()
 root.title("Stock Price Prediction")
+root.iconbitmap("favicon.ico")
 
 # Create and place the widgets
 ticker_label = ttk.Label(root, text="Ticker Symbol:")
