@@ -50,13 +50,13 @@ Execute the script to start the GUI application:
 ```sh
 python main.py
 ```
-## Input Parameters
+**Input Parameters:**
 
-Ticker Symbol: Enter the stock ticker symbol (e.g., AAPL for Apple Inc.).
-Start Date: Enter the start date of the historical data in the format YYYY-MM-DD.
-End Date: Enter the end date of the historical data in the format YYYY-MM-DD.
-Future Days: Enter the number of business days for which you want to predict future stock prices.
-Run Predictions
+- Ticker Symbol: Enter the stock ticker symbol (e.g., AAPL for Apple Inc.).
+- Start Date: Enter the start date of the historical data in the format YYYY-MM-DD.
+- End Date: Enter the end date of the historical data in the format YYYY-MM-DD.
+- Future Days: Enter the number of business days for which you want to predict future stock prices.
+- Run Predictions
 
 Click the "Run Predictions" button to start the prediction process. The application will:
 
@@ -69,11 +69,12 @@ Display the results in plots and print the future predictions in the console.
 Example
 Here is an example of how to use the application:
 
-Enter AAPL as the ticker symbol.
-Enter 2022-01-01 as the start date.
-Enter 2023-01-01 as the end date.
-Enter 30 as the number of future days.
-Click "Run Predictions".
+- Enter AAPL as the ticker symbol.
+- Enter 2022-01-01 as the start date.
+- Enter 2023-01-01 as the end date.
+- Enter 30 as the number of future days.
+- Click "Run Predictions".
+
 The application will generate plots showing the actual stock prices, training and test predictions, and future predicted stock prices. It will also print the future predictions in the console.
 
 License
