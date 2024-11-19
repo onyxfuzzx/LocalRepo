@@ -20,12 +20,12 @@ pip install -r requirements.txt
 ```
 ## The requirements.txt file includes:
 
--numpy
--pandas
--matplotlib
--scikit-learn
--tensorflow
--yfinance
+- `numpy`
+- `pandas`
+- `matplotlib`
+- `scikit-learn`
+- `tensorflow`
+- `yfinance`
 
 #How to Use
 Clone the Repository
@@ -40,13 +40,16 @@ cd stock-price-prediction
 Install Dependencies
 
 Navigate to the project directory and install the required dependencies:
-
+```sh
 pip install -r requirements.txt
+```
 Run the Application
 
 Execute the script to start the GUI application:
 
+```sh
 python main.py
+```
 Input Parameters
 
 Ticker Symbol: Enter the stock ticker symbol (e.g., AAPL for Apple Inc.).
