@@ -84,4 +84,4 @@ Contributing
 Contributions are welcome! Please feel free to open issues or submit pull requests.
 
 Contact
-If you have any questions or need further assistance, please contact [Your Name] at [Your Email].
+If you have any questions or need further assistance, please contact **Zaid Shaikh** at zaid83560@gmail.com .
