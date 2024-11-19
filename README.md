@@ -27,7 +27,7 @@ pip install -r requirements.txt
 - `tensorflow`
 - `yfinance`
 
-#How to Use
+# How to Use
 Clone the Repository
 
 First, clone this repository to your local machine:
@@ -50,7 +50,7 @@ Execute the script to start the GUI application:
 ```sh
 python main.py
 ```
-Input Parameters
+## Input Parameters
 
 Ticker Symbol: Enter the stock ticker symbol (e.g., AAPL for Apple Inc.).
 Start Date: Enter the start date of the historical data in the format YYYY-MM-DD.
