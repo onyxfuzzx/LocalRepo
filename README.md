@@ -70,8 +70,8 @@ python main.py
 - Display the results in plots and print the future predictions in the console.
 
 
-Example
-Here is an example of how to use the application:
+# Example
+## **Here is an example of how to use the application:**
 - Enter AAPL as the ticker symbol.
 - Enter 2022-01-01 as the start date.
 - Enter 2023-01-01 as the end date.
