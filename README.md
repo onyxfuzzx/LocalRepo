@@ -58,22 +58,23 @@ python main.py
 - Future Days: Enter the number of business days for which you want to predict future stock prices.
 - Run Predictions
 
-Click the "Run Predictions" button to start the prediction process. The application will:
+Click the "Run Predictions" button to start the prediction process. 
+The application will:
+- Download the historical stock data.
+- Preprocess the data.
+- Build and train the LSTM model.
+- Make predictions on the training and test datasets.
+- Simulate future stock price predictions.
+- Display the results in plots and print the future predictions in the console.
 
-Download the historical stock data.
-Preprocess the data.
-Build and train the LSTM model.
-Make predictions on the training and test datasets.
-Simulate future stock price predictions.
-Display the results in plots and print the future predictions in the console.
+
 Example
 Here is an example of how to use the application:
-
 - Enter AAPL as the ticker symbol.
 - Enter 2022-01-01 as the start date.
 - Enter 2023-01-01 as the end date.
 - Enter 30 as the number of future days.
-- Click "Run Predictions".
+- Click **"Run Predictions"**.
 
 The application will generate plots showing the actual stock prices, training and test predictions, and future predicted stock prices. It will also print the future predictions in the console.
 
